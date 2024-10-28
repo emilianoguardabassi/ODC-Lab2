@@ -1,0 +1,6 @@
+*.o
+memory_map.txt
+kernel8.*
+.gdb_history
+*.mp4
+*.mkv
